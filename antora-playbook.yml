@@ -8,7 +8,7 @@ content:
     start_path: about
   - url: ./
     branches: HEAD
-    start_path: about_vi
+    start_path: about-vi
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
