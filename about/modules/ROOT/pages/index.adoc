@@ -1,0 +1,68 @@
+= Archive of alxdre301
+
+== About this page
+
+=== Random questions you might ask
+
+"Who the hell is alxdre301?"::
+A random person on the Net, go to <<More about me>> to know more.
+
+"This page is for?"::
+Don't know, I would just try to write what I like. I will try to write some more articles here.
+
+"Your domain has something id.vn, what is that?"::
+id.vn is a .vn domain provided by VNNIC (short for _Vietnam Internet Network Information Center_).
+Currently it provides freely for Vietnamese people from 18 to 23 years old within 2 years. See more
+at https://vnnic.vn/tenmien/hotro/cam-nang-ten-mien-idvn-0.
+
+== More about me
+
+=== Personal information
+
+Alias:: alxdre301, thanh9356, and 0x0F0F0F
+Email:: alxdre301@gmail.com
+Social::
+* Mastodon: https://urusai.social/@alxdre301/[@alxdre301@urusai.social]
+* Matrix: https://matrix.to/#/@alxdre301:4d2.org[@alxdre301:4d2.org]
+* YouTube: https://www.youtube.com/@alxdre301[@alxdre301]
+* GitHub: https://github.com/Thanh9356[Thanh9356]
+
+=== Education
+
+2024-09 -- present::
+* Student at VNU-HCM University of Information Technology
+* First year of Computer Engineering
+
+=== Experiences
+
+2021 -- 2023::
+* Contributor at Cytoid Wiki
+* I helped writing articles for the English page of the wiki
+* Git repository: https://github.com/CytoidCommunity/Cytoid-wiki.git (archived)
+
+=== Skills
+
+I think I should sleep and think later.
+
+=== Miscellaneous
+
+Rhythm games::
+It's been 8 years since I started play rhythm games... It's quite of my deep love, I still try to
+keep myself playing them everyday. Most of the play time is on mobile.
+
+Music::
+I can listen to any kind of music, but I have more melodic taste than lyrical, so I'm really slow
+to understand how wonderful a song's lyrics is.
+
+Anime & Manga::
+I have quite very poor taste. I'm really fascinated to BLs, but sometimes I watch other genres.
+Most favorite work is Psycho-Pass (SS1).
+
+Favorite characters::
+Uenoyama Ritsuka (Given), Kogami Shinya (Psycho-Pass), Takamine Midori (Ensemble Stars!), Morisawa
+Chiaki (Ensemble Stars!).
+
+Devices::
+* nubia Neo 2 (Z2352N) (since 2024-09)
+* MSI Thin 15 B12UCX (since 2024-12)
+* Raspberry Pi Pico (since 2023-06)
