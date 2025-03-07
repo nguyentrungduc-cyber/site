@@ -1,5 +1,5 @@
 site:
-  title: An archive of alxdre301
+  title: Archive of alxdre301
   start_page: about::index.adoc
 content:
   sources:
@@ -8,8 +8,9 @@ content:
     start_path: about
   - url: ./
     branches: HEAD
-    start_path: about-vi
+    start_path: about_vi
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+  supplemental_files: ./supplemental-ui
