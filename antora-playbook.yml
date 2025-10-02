@@ -6,9 +6,6 @@ content:
   - url: ./
     branches: HEAD
     start_path: about
-  - url: ./
-    branches: HEAD
-    start_path: about-vi
 asciidoc:
   attributes:
 ui:
